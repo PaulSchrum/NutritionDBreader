@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutrientDb", "NutrientDb\NutrientDb.csproj", "{5ECE7B26-9ABC-4DE2-AD29-FD51478CDDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutritionDBtests", "NutritionDBtests\NutritionDBtests.csproj", "{3F7F3266-6A91-4FCE-9FF7-A134509461B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicalUnits", "PhysicalUnits\PhysicalUnits.csproj", "{54D5A957-80E3-43AC-9D33-CAFE37623BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECE7B26-9ABC-4DE2-AD29-FD51478CDDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECE7B26-9ABC-4DE2-AD29-FD51478CDDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECE7B26-9ABC-4DE2-AD29-FD51478CDDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECE7B26-9ABC-4DE2-AD29-FD51478CDDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7F3266-6A91-4FCE-9FF7-A134509461B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7F3266-6A91-4FCE-9FF7-A134509461B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7F3266-6A91-4FCE-9FF7-A134509461B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7F3266-6A91-4FCE-9FF7-A134509461B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D5A957-80E3-43AC-9D33-CAFE37623BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D5A957-80E3-43AC-9D33-CAFE37623BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D5A957-80E3-43AC-9D33-CAFE37623BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D5A957-80E3-43AC-9D33-CAFE37623BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
